@@ -8,7 +8,7 @@ AI-powered task suggestions, and scalable architecture.
 
 ## Tech Stack
 
-- Node.js
+- Node.js (v@22.21.1)
 - TypeScript
 - Express
 - MongoDB + Mongoose

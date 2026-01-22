@@ -1,0 +1,7 @@
+PORT=5000
+MONGO_URI=Your MongoDB connection string here
+JWT_SECRET=Your JWT secret here
+# AI (Local)
+AI_PROVIDER=Your AI provider here
+OLLAMA_BASE_URL=Your AI_PROVIDER base URL here
+OLLAMA_MODEL=Your AI_PROVIDER model name here
